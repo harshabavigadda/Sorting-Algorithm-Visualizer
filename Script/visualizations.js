@@ -20,11 +20,10 @@ function vis_speed()
                 break;
     }
     
-    delay_time=10000/(Math.floor(array_size/10)*speed);        //Decrease numerator to increase speed.
+    delay_time=10000/(Math.floor(array_size/10)*speed);        
 }
 
-var delay_time=10000/(Math.floor(array_size/10)*speed);        //Decrease numerator to increase speed.
-var c_delay=0;
+var delay_time=10000/(Math.floor(array_size/10)*speed);       
 
 function div_update(cont,height,color)
 {
@@ -48,9 +47,3 @@ function enable_buttons()
         }
     },c_delay+=delay_time);
 }
-
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
