@@ -80,9 +80,3 @@ function runalgo()
                         break;
     }
 }
-
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
